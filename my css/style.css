@@ -1,0 +1,12 @@
+header{
+    font-size: larger;
+    font-family: inherit;
+    background-color: chocolate;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 20px 10px 40px 50px;
+}
+body{
+    background-color: rgb(220,400,550);
+}
